@@ -3,9 +3,11 @@
 A new Flutter project for Web.
 
 # output
-![alt text](https://i.imgur.com/Hpus8Kv.gif)
+
 ![alt text](https://i.imgur.com/oWoei0d.png)
 ![alt text](https://i.imgur.com/SsQ86TL.png)
+![alt text](https://i.imgur.com/OAsfnP1.png)
+![alt text](https://i.imgur.com/KetKWa8.png)
 
 ## Getting Started
 
