@@ -3,9 +3,9 @@
 A new Flutter project for Web.
 
 # output
-![] (https://i.imgur.com/Hpus8Kv.gif)
-![alt text] (https://i.imgur.com/oWoei0d.png)
-![alt text] (https://i.imgur.com/SsQ86TL.png)
+![](https://i.imgur.com/Hpus8Kv.gif)
+![alt text](https://i.imgur.com/oWoei0d.png)
+![alt text](https://i.imgur.com/SsQ86TL.png)
 
 ## Getting Started
 
